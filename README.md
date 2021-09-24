@@ -1,2 +1,0 @@
-# pineplanet.github.io
-blog
