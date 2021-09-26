@@ -122,7 +122,7 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: "pineplanet" # the Disqus shortname for the site
+    shortname: "https-pineplanet-github-io" # the Disqus shortname for the site
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
