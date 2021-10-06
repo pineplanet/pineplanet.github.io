@@ -24,10 +24,51 @@ def solution(prices):
         prices.pop(0);
     return answer
 ```
-- 2차 시도 전략 
+- 2차 시도 전략 -> 효율성 문제로 실패! 
     - prices의 길이를 미리 저장해두자.
     - prices.pop(0)을 미리 해서 변수에 저장해두고, 
     - for 문을 range로 하지말고 prices의 데이터들을 직접 써보자. 
         - 숫자 변수를 선언 하고 
         - 주식 가격들을 비교 할 때 숫자 변수를 +1씩 하게 한다음 
         - 마지막에 answer에 append를 해봐야겠다. 
+```python
+def solution(prices):
+    answer = []
+    Max = len(prices)
+    while prices:
+        item = prices.pop(0);
+
+        a = 0;
+        for i in prices:
+            if item > i:
+                a = a+1
+                break
+            else:
+                a =a+1
+        answer.append(a)
+
+    return answer
+```
+
+- 3차 시도 : 이번엔 리스트 말고 다른걸 써보자. -> 통과 !!!!!!!
+
+``` python 
+from collections import deque
+def solution(prices):
+    prices = deque(prices)
+    answer = []
+    Max = len(prices)
+    while prices:
+        item = prices.popleft();
+
+        a = 0;
+        for i in prices:
+            if item > i:
+                a = a+1
+                break
+            else:
+                a =a+1
+        answer.append(a)
+
+    return answer
+```
