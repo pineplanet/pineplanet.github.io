@@ -31,6 +31,8 @@ def solution(prices):
         - 숫자 변수를 선언 하고 
         - 주식 가격들을 비교 할 때 숫자 변수를 +1씩 하게 한다음 
         - 마지막에 answer에 append를 해봐야겠다. 
+
+        
 ```python
 def solution(prices):
     answer = []
