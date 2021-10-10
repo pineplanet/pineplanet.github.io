@@ -1,5 +1,5 @@
 ---
-title: TIL 2021-10-06 Programmers 01 주식 가격
+title: 2021-10-06 Programmers 01 주식 가격
 tags: [Python,Algorithm]
 categories: Algorithm
 ---
