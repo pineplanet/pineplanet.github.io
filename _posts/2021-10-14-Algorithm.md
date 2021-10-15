@@ -1,6 +1,6 @@
 ---
-title: 2021-10-13 Programmers.42840 모의고사 문제 풀이 
-tags: [Python,Algorithm]
+title: 2021-10-14 Programmers.42840 모의고사 문제 풀이 
+tags: [Python,Algorithm,완전탐색]
 categories: Algorithm
 ---
 이번주에는 완전 탐색과 이분 탐색을 배웠습니다. 
