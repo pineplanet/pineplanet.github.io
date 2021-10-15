@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pineplanet.github.io/sitemap.xml
