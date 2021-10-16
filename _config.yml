@@ -169,12 +169,12 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: false # false (default), "google", "custom"
+  provider: "google-gtag" #false # false (default), "google", "custom"
 
   ## Google Analytics
   google:
-    tracking_id : # Google Analytics id for the site
-    anonymize_ip: false # Anonymize IP tracking for Analytics
+    tracking_id : G-C0Q5B3YNYZ # Google Analytics id for the site
+    anonymize_ip: #false # Anonymize IP tracking for Analytics
 
 
 ## => Build
@@ -207,7 +207,7 @@ defaults:
       type: posts
     values:
       layout: article
-      sharing: false#true
+      sharing: false #true
       license: false #true
       aside:
         toc: true
