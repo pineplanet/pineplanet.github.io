@@ -1,5 +1,5 @@
 ---
-title: 2021-10-20 BFS/DFS
+title: 2021-10-23 BFS/DFS
 tags: [Python,Algorithm,BFS]
 categories: Algorithm
 ---
