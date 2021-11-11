@@ -41,7 +41,7 @@ categories: MINIPROJECT
 ## 지금까지 구현한 것들 
 
 사실 대문은 구글 처럼 가운데에 검색 창만 뙇! 놓는데 예쁘게 만들고 싶어요.. 일단 대문만 하면 되니까 대문은 제일 마지막에 올릴래요 .. ㅋㅋ
-![재난 대피소 목록](https://github.com/pineplanet/pineplanet.github.io/blob/main/assets/images/2.png?raw=true)
+![재난 대피소 목록](https://github.com/pineplanet/pineplanet.github.io/blob/main/assets/images/9.png?raw=true)
 
 재난 대피소를 만들 때 사실 로그인을 하게 하고, 관리자만 등록을 할 수 있게 하고, 일반 사용자들은 자신의 계정에 입실한 대피소 정보와 목록, 상세페이지만 볼 수 있게 하려고 했는데, 지금은 우선 로그인 기능을 뺐어요. 
 
