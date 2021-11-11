@@ -36,11 +36,24 @@ categories: MINIPROJECT
 - Java 1.8
 - tomcat 9.0.54
 - Oracle cloud ATP database 
+## 언어 
+- java
+- javascript 
+- html
+- css
+## 프로젝트 구성 
+
+![클래스 다이어그램](https://github.com/pineplanet/pineplanet.github.io/blob/main/assets/images/10.png?raw=true)
 
 
 ## 지금까지 구현한 것들 
 
-사실 대문은 구글 처럼 가운데에 검색 창만 뙇! 놓는데 예쁘게 만들고 싶어요.. 일단 대문만 하면 되니까 대문은 제일 마지막에 올릴래요 .. ㅋㅋ
+현재 대문 화면은 이래요.... ㅋㅋㅋ html이랑 css는 배운적이 없어서 .... 진짜 최선을 다한거에요.
+구글 포맷을 빌려왔어요. 위에 ㅇㅇㄷㅍㅅ 에 링크를 걸어서 이것을 클릭하면 전체 목록이 나오고, 검색어를 입력한다음 엔터를 누르면 검색된 단어를 포함하는 대피소를 보여주는 목록이 나옵니다. 부분 검색이 가능하도록 만들어서 목록으로 나오게 하였습니다. 
+.......
+![재난 대피소 인덱스](https://github.com/pineplanet/pineplanet.github.io/blob/main/assets/images/8.png?raw=true)
+
+
 ![재난 대피소 목록](https://github.com/pineplanet/pineplanet.github.io/blob/main/assets/images/9.png?raw=true)
 
 재난 대피소를 만들 때 사실 로그인을 하게 하고, 관리자만 등록을 할 수 있게 하고, 일반 사용자들은 자신의 계정에 입실한 대피소 정보와 목록, 상세페이지만 볼 수 있게 하려고 했는데, 지금은 우선 로그인 기능을 뺐어요. 
@@ -62,13 +75,9 @@ categories: MINIPROJECT
 
 퇴실 버튼을 누르면 현재 인원 수가 내려갑니다. 
 
-![재난 대피소 상세페이지2](https://github.com/pineplanet/pineplanet.github.io/blob/main/assets/images/5.png?raw=true)
+![재난 대피소 상세페이지3](https://github.com/pineplanet/pineplanet.github.io/blob/main/assets/images/5.png?raw=true)
 
 
-현재 대문 화면은 이래요.... ㅋㅋㅋ html이랑 css는 배운적이 없어서 .... 진짜 최선을 다한거에요.
-구글 포맷을 빌려왔어요. 위에 ㅇㅇㄷㅍㅅ 에 링크를 걸어서 이것을 클릭하면 전체 목록이 나오고, 검색어를 입력한다음 엔터를 누르면 검색된 단어를 포함하는 대피소를 보여주는 목록이 나옵니다. 부분 검색이 가능하도록 만들어서 목록으로 나오게 하였습니다. 
-.......
-![재난 대피소 인덱스](https://github.com/pineplanet/pineplanet.github.io/blob/main/assets/images/8.png?raw=true)
 
 ## 프로젝트를 진행 하면서 
 콘솔창으로 프린트만 해보다가 웹으로 데이터를 넘겨주고 넘겨 받는일이 어떻게 진행 되는 것인지 조금이나마 배울 수 있었고, 제가 매일 아무생각 없이 쓰는 모든 서비스들은 사실 누군가의 피땀눈물이구나 하는 생각도 들었습니다. 
