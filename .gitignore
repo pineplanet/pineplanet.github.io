@@ -3,3 +3,12 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+.idea/misc.xml
+.idea/modules.xml
+.idea/pineplanet.github.io.iml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/libraries/concurrent_ruby.xml
+.idea/libraries/primitives.xml
+.DS_Store
